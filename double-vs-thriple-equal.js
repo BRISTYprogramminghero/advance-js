@@ -1,8 +1,8 @@
 const first = 2;
 const second = 3;
- if(first==second){
+if(first == second){
     console.log("condition is true");
- }
- else{
-     console.log("consdition is false");
- }
+}
+else{
+    console.log("condition is felse");
+}
